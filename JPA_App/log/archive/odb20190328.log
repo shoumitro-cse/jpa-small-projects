@@ -1,0 +1,1159 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:16:13 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 9189@localhost
+
+[2019-03-28 12:16:13 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:16:13 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 12:16:13 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:16:57 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' has been recovered (tr. 1-3)
+
+[2019-03-28 12:16:57 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 9216@localhost
+
+[2019-03-28 12:16:57 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:16:58 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:17:11 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 9261@localhost
+
+[2019-03-28 12:17:11 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:17:11 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:18:43 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 9301@localhost
+
+[2019-03-28 12:18:43 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:18:43 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:19:55 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' has been recovered (tr. 4-4)
+
+[2019-03-28 12:19:55 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 9854@localhost
+
+[2019-03-28 12:19:55 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:19:55 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:24:20 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' has been recovered (tr. 5-5)
+
+[2019-03-28 12:24:20 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10085@localhost
+
+[2019-03-28 12:24:20 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:24:20 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:24:33 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10110@localhost
+
+[2019-03-28 12:24:33 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:24:33 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:24:43 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10136@localhost
+
+[2019-03-28 12:24:43 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:24:43 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:26:35 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10179@localhost
+
+[2019-03-28 12:26:35 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:26:35 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:26:47 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10209@localhost
+
+[2019-03-28 12:26:47 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:26:48 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:27:36 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10235@localhost
+
+[2019-03-28 12:27:36 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:27:36 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:28:49 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10267@localhost
+
+[2019-03-28 12:28:49 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:28:49 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:29:04 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10292@localhost
+
+[2019-03-28 12:29:04 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:29:04 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:29:19 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10315@localhost
+
+[2019-03-28 12:29:19 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:29:19 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:31:53 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10396@localhost
+
+[2019-03-28 12:31:53 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:31:53 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:31:53 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10396@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:33:12 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10422@localhost
+
+[2019-03-28 12:33:12 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:33:12 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:33:30 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10447@localhost
+
+[2019-03-28 12:33:30 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:33:30 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:33:30 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10447@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:34:16 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10475@localhost
+
+[2019-03-28 12:34:16 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:34:17 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:34:32 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10498@localhost
+
+[2019-03-28 12:34:32 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:34:32 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:34:41 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10521@localhost
+
+[2019-03-28 12:34:41 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:34:41 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:35:26 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' has been recovered (tr. 8-8)
+
+[2019-03-28 12:35:26 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10677@localhost
+
+[2019-03-28 12:35:26 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:35:26 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:35:37 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10700@localhost
+
+[2019-03-28 12:35:37 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:35:37 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:35:37 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10700@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:35:53 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10728@localhost
+
+[2019-03-28 12:35:53 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:35:54 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:36:06 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10752@localhost
+
+[2019-03-28 12:36:06 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:36:06 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:36:06 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10752@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:37:33 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10835@localhost
+
+[2019-03-28 12:37:33 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:37:33 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:37:34 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10835@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:37:52 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10862@localhost
+
+[2019-03-28 12:37:52 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:37:52 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:38:06 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10885@localhost
+
+[2019-03-28 12:38:06 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:38:06 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:38:06 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 10885@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:38:32 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10911@localhost
+
+[2019-03-28 12:38:32 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:38:32 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:39:28 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10946@localhost
+
+[2019-03-28 12:39:28 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:39:28 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:39:39 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 10970@localhost
+
+[2019-03-28 12:39:39 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:39:39 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:40:44 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11001@localhost
+
+[2019-03-28 12:40:44 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:40:44 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:40:44 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 11001@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:42:12 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11033@localhost
+
+[2019-03-28 12:42:12 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:42:12 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:43:37 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11065@localhost
+
+[2019-03-28 12:43:37 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:43:37 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:43:37 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 11065@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:44:04 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11093@localhost
+
+[2019-03-28 12:44:04 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:44:04 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:44:49 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11118@localhost
+
+[2019-03-28 12:44:49 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:44:49 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:45:02 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' has been recovered (tr. 15-15)
+
+[2019-03-28 12:45:02 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11162@localhost
+
+[2019-03-28 12:45:02 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:45:02 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:45:18 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11186@localhost
+
+[2019-03-28 12:45:18 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:45:18 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:46:10 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11237@localhost
+
+[2019-03-28 12:46:10 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:46:10 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:48:45 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11274@localhost
+
+[2019-03-28 12:48:45 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:48:45 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:48:45 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 11274@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:49:36 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11305@localhost
+
+[2019-03-28 12:49:36 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:49:36 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:50:03 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11330@localhost
+
+[2019-03-28 12:50:03 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:50:03 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:50:55 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11755@localhost
+
+[2019-03-28 12:50:55 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:50:56 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:52:11 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11821@localhost
+
+[2019-03-28 12:52:11 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:52:11 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:52:23 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11845@localhost
+
+[2019-03-28 12:52:23 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:52:23 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:52:54 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11871@localhost
+
+[2019-03-28 12:52:54 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:52:54 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:53:21 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11895@localhost
+
+[2019-03-28 12:53:21 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:53:21 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:53:21 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is closed by 11895@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:53:48 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11921@localhost
+
+[2019-03-28 12:53:48 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:53:48 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:54:05 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/std' is opened by 11955@localhost
+
+[2019-03-28 12:54:05 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:54:06 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:55:33 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12017@localhost
+
+[2019-03-28 12:55:33 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:55:33 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 12:55:33 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:55:48 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' has been recovered (tr. 1-3)
+
+[2019-03-28 12:55:49 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12044@localhost
+
+[2019-03-28 12:55:49 #3 store] 
+Configuration path: ?
+
+[2019-03-28 12:55:49 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 12:55:49 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is closed by 12044@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:56:03 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12068@localhost
+
+[2019-03-28 12:56:03 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:56:03 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:57:31 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12222@localhost
+
+[2019-03-28 12:57:31 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:57:31 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:57:55 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12269@localhost
+
+[2019-03-28 12:57:55 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:57:55 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:58:19 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12296@localhost
+
+[2019-03-28 12:58:19 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:58:19 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:58:43 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12320@localhost
+
+[2019-03-28 12:58:43 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:58:43 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 12:59:30 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12347@localhost
+
+[2019-03-28 12:59:30 #2 store] 
+Configuration path: ?
+
+[2019-03-28 12:59:30 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:00:03 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12784@localhost
+
+[2019-03-28 13:00:03 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:00:03 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:00:26 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 12891@localhost
+
+[2019-03-28 13:00:26 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:00:26 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:01:08 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/test' is opened by 13321@localhost
+
+[2019-03-28 13:01:08 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:01:08 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:01:28 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/mysql' is opened by 13348@localhost
+
+[2019-03-28 13:01:28 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:01:28 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:01:28 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:01:51 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/mysql' has been recovered (tr. 1-3)
+
+[2019-03-28 13:01:51 #2 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/mysql' is opened by 13374@localhost
+
+[2019-03-28 13:01:51 #3 store] 
+Configuration path: ?
+
+[2019-03-28 13:01:51 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:01:51 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/mysql' is closed by 13374@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:02:04 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/mysql' is opened by 13397@localhost
+
+[2019-03-28 13:02:04 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:02:04 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:03:58 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/any_db_no_exist_mdb' is opened by 13561@localhost
+
+[2019-03-28 13:03:58 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:03:58 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:03:58 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:03:58 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/any_db_no_exist_mdb' is closed by 13561@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:04:18 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/jdbc:mysql:/localhost:3306/any_db_no_exist_mdb' is opened by 13586@localhost
+
+[2019-03-28 13:04:18 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:04:18 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:05:58 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/any_db_no_exist_mdb' is opened by 13620@localhost
+
+[2019-03-28 13:05:58 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:05:58 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:05:58 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:05:58 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/any_db_no_exist_mdb' is closed by 13620@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:06:34 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/any_db_no_exist_mdb' is opened by 13647@localhost
+
+[2019-03-28 13:06:34 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:06:34 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:07:11 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/any_db_no_exist_mdb' is opened by 13705@localhost
+
+[2019-03-28 13:07:11 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:07:11 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:07:11 #4 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:09:13 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is opened by 13755@localhost
+
+[2019-03-28 13:09:13 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:09:14 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:09:14 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:09:14 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is closed by 13755@localhost
+
+[2019-03-28 13:09:14 #6 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is opened by 13755@localhost
+
+[2019-03-28 13:09:14 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:10:02 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is opened by 13807@localhost
+
+[2019-03-28 13:10:02 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:10:02 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:10:02 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is closed by 13807@localhost
+
+[2019-03-28 13:10:02 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is opened by 13807@localhost
+
+[2019-03-28 13:10:02 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:10:10 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql/localhost/any_db_no_exist_mdb' is opened by 13832@localhost
+
+[2019-03-28 13:10:10 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:10:10 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:10:43 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13880@localhost
+
+[2019-03-28 13:10:43 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:10:43 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:10:43 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:10:43 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 13880@localhost
+
+[2019-03-28 13:10:43 #6 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13880@localhost
+
+[2019-03-28 13:10:43 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:11:16 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13929@localhost
+
+[2019-03-28 13:11:16 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:11:16 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:11:35 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13953@localhost
+
+[2019-03-28 13:11:35 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:11:35 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:11:35 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 13953@localhost
+
+[2019-03-28 13:11:35 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13953@localhost
+
+[2019-03-28 13:11:35 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:11:58 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 13982@localhost
+
+[2019-03-28 13:11:58 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:11:58 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:12:10 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14005@localhost
+
+[2019-03-28 13:12:10 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:12:10 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:12:10 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14005@localhost
+
+[2019-03-28 13:12:10 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14005@localhost
+
+[2019-03-28 13:12:10 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:12:43 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14032@localhost
+
+[2019-03-28 13:12:43 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:12:44 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:12:44 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14032@localhost
+
+[2019-03-28 13:12:44 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14032@localhost
+
+[2019-03-28 13:12:44 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:14:46 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14094@localhost
+
+[2019-03-28 13:14:46 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:14:46 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:14:46 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14094@localhost
+
+[2019-03-28 13:14:46 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14094@localhost
+
+[2019-03-28 13:14:46 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:14:50 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14120@localhost
+
+[2019-03-28 13:14:50 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:14:51 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:15:02 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14164@localhost
+
+[2019-03-28 13:15:02 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:15:02 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:15:02 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14164@localhost
+
+[2019-03-28 13:15:02 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14164@localhost
+
+[2019-03-28 13:15:02 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:15:05 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14189@localhost
+
+[2019-03-28 13:15:05 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:15:05 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:15:05 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14189@localhost
+
+[2019-03-28 13:15:05 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14189@localhost
+
+[2019-03-28 13:15:05 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:15:20 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14216@localhost
+
+[2019-03-28 13:15:20 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:15:20 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:15:20 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14216@localhost
+
+[2019-03-28 13:15:20 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14216@localhost
+
+[2019-03-28 13:15:20 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:15:31 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14242@localhost
+
+[2019-03-28 13:15:31 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:15:31 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:15:31 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14242@localhost
+
+[2019-03-28 13:15:31 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14242@localhost
+
+[2019-03-28 13:15:31 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:15:47 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14295@localhost
+
+[2019-03-28 13:15:47 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:15:47 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:15:47 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:15:47 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14295@localhost
+
+[2019-03-28 13:15:47 #6 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14295@localhost
+
+[2019-03-28 13:15:47 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:16:11 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14320@localhost
+
+[2019-03-28 13:16:11 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:16:12 #3 type] 
+Type StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:16:20 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14344@localhost
+
+[2019-03-28 13:16:20 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:16:20 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:16:20 #4 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14344@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-28 13:17:02 #1 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14391@localhost
+
+[2019-03-28 13:17:02 #2 store] 
+Configuration path: ?
+
+[2019-03-28 13:17:02 #3 type.registry] 
+New type StudentEntity
+
+[2019-03-28 13:17:02 #4 type] 
+Type StudentEntity is not enhanced.
+
+[2019-03-28 13:17:02 #5 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 14391@localhost
+
+[2019-03-28 13:17:02 #6 store] 
+Database '/home/suse/apache-tomcat-9.0.11/webapps/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 14391@localhost
+
+[2019-03-28 13:17:02 #7 store] 
+Configuration path: ?
+

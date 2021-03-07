@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:56:50 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4986@localhost
+
+[2019-04-07 20:56:50 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:56:50 #3 type] 
+Type StudentEntity is not enhanced.
+
+[2019-04-07 20:56:50 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is closed by 4986@localhost
+
+[2019-04-07 20:56:50 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/JPA_App/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4986@localhost
+
+[2019-04-07 20:56:50 #6 store] 
+Configuration path: ?
+

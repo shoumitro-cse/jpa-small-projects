@@ -1,0 +1,192 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:46:31 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7206@localhost
+
+[2019-04-07 22:46:31 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:46:31 #3 type.registry] 
+New type com.javatpoint.jpa.Employee
+
+[2019-04-07 22:46:31 #4 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 22:46:31 #5 type.registry] 
+New type com.javatpoint.jpa.Address
+
+[2019-04-07 22:46:31 #6 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+[2019-04-07 22:46:31 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2019-04-07 22:46:31 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.jpa.Address>
+
+[2019-04-07 22:46:31 #9 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is closed by 7206@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:54:52 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7287@localhost
+
+[2019-04-07 22:54:52 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:54:52 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 22:54:52 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:59:14 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7350@localhost
+
+[2019-04-07 22:59:14 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:59:14 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 22:59:14 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:00:14 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7400@localhost
+
+[2019-04-07 23:00:14 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:00:14 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:00:14 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:00:30 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7426@localhost
+
+[2019-04-07 23:00:30 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:00:30 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:00:30 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:47:23 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7853@localhost
+
+[2019-04-07 23:47:23 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:47:23 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:47:23 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:47:47 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7881@localhost
+
+[2019-04-07 23:47:47 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:47:47 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:47:47 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+[2019-04-07 23:47:47 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is closed by 7881@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:47:59 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7906@localhost
+
+[2019-04-07 23:47:59 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:48:00 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:48:00 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:48:10 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7930@localhost
+
+[2019-04-07 23:48:10 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:48:10 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:48:10 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:53:31 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 7980@localhost
+
+[2019-04-07 23:53:31 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:53:31 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:53:31 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+[2019-04-07 23:53:31 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is closed by 7980@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:53:42 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 8006@localhost
+
+[2019-04-07 23:53:42 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:53:42 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:53:42 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 23:58:49 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is opened by 8062@localhost
+
+[2019-04-07 23:58:49 #2 store] 
+Configuration path: ?
+
+[2019-04-07 23:58:50 #3 type] 
+Type com.javatpoint.jpa.Employee is not enhanced.
+
+[2019-04-07 23:58:50 #4 type] 
+Type com.javatpoint.jpa.Address is not enhanced.
+
+[2019-04-07 23:58:50 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Collection Mapping of JPA/mysql_con/localhost/map_db' is closed by 8062@localhost
+

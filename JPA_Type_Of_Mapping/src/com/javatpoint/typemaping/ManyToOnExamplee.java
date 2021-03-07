@@ -1,0 +1,51 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package com.javatpoint.typemaping;
+
+import com.javatpoint.mapping.Library;
+import com.javatpoint.mapping.Student;
+import java.util.ArrayList;
+import java.util.List;
+import javax.persistence.EntityManager;
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+/**
+ *
+ * @author suse
+ */
+public class ManyToOnExamplee {
+    public static void main(String[] args) {
+                EntityManagerFactory emf = Persistence.createEntityManagerFactory("Book_issued");
+        EntityManager em = emf.createEntityManager();
+        
+        em.getTransaction().begin();
+        
+        Library lib = new Library();
+        lib.setBook("Data Base ManageMent System");
+        lib.setId(1);
+        
+        em.persist(lib);
+        
+        Student s1 = new Student();
+        s1.setId(100);
+        s1.setName("Shoumitro Roy");
+        s1.setLib(lib);
+        
+        Student s2 = new Student();
+        s2.setId(101);
+        s2.setName("Dev Roy");
+        s2.setLib(lib);
+        
+        em.persist(s1);
+        em.persist(s2);
+        
+        em.getTransaction().commit();
+        
+        em.close();
+        emf.close();
+    }
+}

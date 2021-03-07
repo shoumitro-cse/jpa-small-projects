@@ -1,0 +1,716 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:44:14 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10286@android123
+
+[2021-03-07 14:44:14 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:44:14 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:44:14 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:44:14 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:44:14 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:44:14 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10286@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:44:32 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10314@android123
+
+[2021-03-07 14:44:32 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:44:32 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:44:32 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:44:32 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10314@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:44:36 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10337@android123
+
+[2021-03-07 14:44:36 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:44:36 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:44:36 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:44:36 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10337@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:44:46 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10362@android123
+
+[2021-03-07 14:44:46 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:44:47 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:44:47 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:44:47 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:44:47 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:44:58 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' has been recovered (tr. 1-3)
+
+[2021-03-07 14:44:58 #2 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10388@android123
+
+[2021-03-07 14:44:58 #3 store] 
+Configuration path: ?
+
+[2021-03-07 14:44:58 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:44:59 #5 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:44:59 #6 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10388@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:06 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10411@android123
+
+[2021-03-07 14:45:06 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:06 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:06 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:21 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10435@android123
+
+[2021-03-07 14:45:21 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:21 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:21 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:45:21 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10435@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:26 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10458@android123
+
+[2021-03-07 14:45:26 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:26 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:26 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:31 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10481@android123
+
+[2021-03-07 14:45:31 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:31 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:31 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:42 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10505@android123
+
+[2021-03-07 14:45:42 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:42 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:42 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:52 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10533@android123
+
+[2021-03-07 14:45:52 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:52 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:45:52 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:52 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:45:52 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:45:52 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10533@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:45:57 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10556@android123
+
+[2021-03-07 14:45:57 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:45:57 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:45:57 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:45:57 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10556@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:47:08 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10588@android123
+
+[2021-03-07 14:47:08 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:47:08 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:47:08 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:47:08 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:47:08 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:47:08 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10588@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:47:14 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10613@android123
+
+[2021-03-07 14:47:14 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:47:14 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:47:14 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:47:14 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10613@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:48:37 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10646@android123
+
+[2021-03-07 14:48:37 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:48:37 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:48:37 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:48:37 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:48:37 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:48:45 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' has been recovered (tr. 1-3)
+
+[2021-03-07 14:48:45 #2 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10670@android123
+
+[2021-03-07 14:48:45 #3 store] 
+Configuration path: ?
+
+[2021-03-07 14:48:45 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:48:45 #5 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:48:45 #6 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10670@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:48:50 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10694@android123
+
+[2021-03-07 14:48:50 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:48:50 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:48:50 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:48:50 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10694@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:49:23 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10725@android123
+
+[2021-03-07 14:49:23 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:49:23 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:49:23 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:49:33 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10750@android123
+
+[2021-03-07 14:49:33 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:49:33 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:49:33 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:49:33 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:49:33 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:49:33 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10750@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:49:38 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10774@android123
+
+[2021-03-07 14:49:38 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:49:38 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:49:38 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:49:38 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10774@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:50:12 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10802@android123
+
+[2021-03-07 14:50:12 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:50:12 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:50:12 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:50:12 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:50:12 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:50:12 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10802@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:50:17 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10826@android123
+
+[2021-03-07 14:50:17 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:50:17 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:50:17 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:50:17 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10826@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:52:00 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10862@android123
+
+[2021-03-07 14:52:00 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:52:01 #3 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:52:01 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:52:01 #5 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:52:01 #6 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:52:01 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10862@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:52:06 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10886@android123
+
+[2021-03-07 14:52:06 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:52:06 #3 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:52:06 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:52:06 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10886@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:54:11 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10927@android123
+
+[2021-03-07 14:54:11 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:54:12 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:54:12 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:54:12 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:54:12 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:54:12 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10927@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:54:18 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10951@android123
+
+[2021-03-07 14:54:18 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:54:18 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:54:18 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:54:18 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10951@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:54:56 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 10980@android123
+
+[2021-03-07 14:54:56 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:54:56 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:54:56 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:54:56 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 10980@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:55:00 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11003@android123
+
+[2021-03-07 14:55:00 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:55:00 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:55:00 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:55:00 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11003@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:55:05 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11026@android123
+
+[2021-03-07 14:55:05 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:55:05 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:55:05 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:55:13 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11050@android123
+
+[2021-03-07 14:55:13 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:55:13 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:55:13 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:55:13 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11050@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:58:10 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11171@android123
+
+[2021-03-07 14:58:10 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:58:10 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2021-03-07 14:58:10 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:58:10 #5 type.registry] 
+New type com.javatpoint.jpa.student.Subject
+
+[2021-03-07 14:58:10 #6 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:58:10 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11171@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:58:15 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11197@android123
+
+[2021-03-07 14:58:15 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:58:15 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:58:15 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:58:15 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11197@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:58:25 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11222@android123
+
+[2021-03-07 14:58:25 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:58:25 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:58:25 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:58:44 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11247@android123
+
+[2021-03-07 14:58:44 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:58:44 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:58:44 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:58:44 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11247@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:58:55 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11281@android123
+
+[2021-03-07 14:58:55 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:58:55 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:58:56 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:59:04 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11304@android123
+
+[2021-03-07 14:59:04 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:59:04 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:59:04 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:59:04 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11304@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:59:08 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11328@android123
+
+[2021-03-07 14:59:08 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:59:08 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:59:08 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:59:08 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11328@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:59:52 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11360@android123
+
+[2021-03-07 14:59:52 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:59:52 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:59:52 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:59:52 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11360@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 14:59:58 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11386@android123
+
+[2021-03-07 14:59:58 #2 store] 
+Configuration path: ?
+
+[2021-03-07 14:59:58 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 14:59:58 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 14:59:58 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11386@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 15:00:02 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is opened by 11409@android123
+
+[2021-03-07 15:00:02 #2 store] 
+Configuration path: ?
+
+[2021-03-07 15:00:02 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2021-03-07 15:00:02 #4 type] 
+Type com.javatpoint.jpa.student.Subject is not enhanced.
+
+[2021-03-07 15:00:02 #5 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA Cascading Operations/mysql/localhost/Cascad_BD' is closed by 11409@android123
+

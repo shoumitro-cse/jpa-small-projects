@@ -1,0 +1,437 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:36:44 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4443@localhost
+
+[2019-04-07 20:36:44 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:36:44 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2019-04-07 20:36:44 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 20:36:44 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is closed by 4443@localhost
+
+[2019-04-07 20:36:44 #6 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4443@localhost
+
+[2019-04-07 20:36:44 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:37:22 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4470@localhost
+
+[2019-04-07 20:37:22 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:37:22 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 20:37:22 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is closed by 4470@localhost
+
+[2019-04-07 20:37:22 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4470@localhost
+
+[2019-04-07 20:37:22 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:41:40 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4545@localhost
+
+[2019-04-07 20:41:40 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:41:40 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:42:11 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4582@localhost
+
+[2019-04-07 20:42:11 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:42:11 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2019-04-07 20:42:11 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 20:42:11 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is closed by 4582@localhost
+
+[2019-04-07 20:42:11 #6 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4582@localhost
+
+[2019-04-07 20:42:11 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:52:48 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4799@localhost
+
+[2019-04-07 20:52:48 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:52:48 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 20:52:48 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is closed by 4799@localhost
+
+[2019-04-07 20:52:48 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 4799@localhost
+
+[2019-04-07 20:52:48 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:58:39 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 5085@localhost
+
+[2019-04-07 20:58:39 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:58:39 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 20:59:23 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 5199@localhost
+
+[2019-04-07 20:59:23 #2 store] 
+Configuration path: ?
+
+[2019-04-07 20:59:23 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 20:59:23 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is closed by 5199@localhost
+
+[2019-04-07 20:59:23 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/any_db_no_exist_mdb' is opened by 5199@localhost
+
+[2019-04-07 20:59:23 #6 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:17:37 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5464@localhost
+
+[2019-04-07 21:17:37 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:17:37 #3 type.registry] 
+New type com.javatpoint.jpa.student.StudentEntity
+
+[2019-04-07 21:17:37 #4 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:17:37 #5 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 5464@localhost
+
+[2019-04-07 21:17:37 #6 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5464@localhost
+
+[2019-04-07 21:17:37 #7 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:20:24 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5553@localhost
+
+[2019-04-07 21:20:24 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:20:24 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:21:12 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5578@localhost
+
+[2019-04-07 21:21:12 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:21:12 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:21:12 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 5578@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:21:24 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5604@localhost
+
+[2019-04-07 21:21:24 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:21:24 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:26:06 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5671@localhost
+
+[2019-04-07 21:26:06 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:26:06 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:33:57 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5881@localhost
+
+[2019-04-07 21:33:57 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:33:57 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:33:57 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 5881@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:34:05 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5909@localhost
+
+[2019-04-07 21:34:05 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:34:05 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:34:28 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5936@localhost
+
+[2019-04-07 21:34:28 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:34:28 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:34:28 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 5936@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:34:32 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5960@localhost
+
+[2019-04-07 21:34:32 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:34:33 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:34:33 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 5960@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:34:42 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 5983@localhost
+
+[2019-04-07 21:34:42 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:34:42 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:35:13 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6012@localhost
+
+[2019-04-07 21:35:13 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:35:13 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:35:13 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6012@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:38:27 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6050@localhost
+
+[2019-04-07 21:38:27 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:38:27 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:38:27 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6050@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:38:33 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6077@localhost
+
+[2019-04-07 21:38:33 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:38:34 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:41:08 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6114@localhost
+
+[2019-04-07 21:41:08 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:41:08 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:41:08 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6114@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:41:22 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6140@localhost
+
+[2019-04-07 21:41:22 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:41:22 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:56:39 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6324@localhost
+
+[2019-04-07 21:56:39 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:56:39 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:57:12 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6384@localhost
+
+[2019-04-07 21:57:12 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:57:13 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:57:13 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6384@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:58:33 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6422@localhost
+
+[2019-04-07 21:58:33 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:58:33 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 21:58:33 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6422@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:58:51 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6454@localhost
+
+[2019-04-07 21:58:51 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:58:51 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 21:59:32 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6481@localhost
+
+[2019-04-07 21:59:32 #2 store] 
+Configuration path: ?
+
+[2019-04-07 21:59:32 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:08:01 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6653@localhost
+
+[2019-04-07 22:08:01 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:08:01 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:08:11 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6679@localhost
+
+[2019-04-07 22:08:11 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:08:11 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 22:08:11 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6679@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:08:16 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6702@localhost
+
+[2019-04-07 22:08:16 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:08:16 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+
+[2019-04-07 22:08:16 #4 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is closed by 6702@localhost
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-04-07 22:08:21 #1 store] 
+Database '/home/suse/Desktop/JavaEE/JPA/netbeen project/Basic_JPA/mysql_con/localhost/my_db' is opened by 6726@localhost
+
+[2019-04-07 22:08:21 #2 store] 
+Configuration path: ?
+
+[2019-04-07 22:08:21 #3 type] 
+Type com.javatpoint.jpa.student.StudentEntity is not enhanced.
+

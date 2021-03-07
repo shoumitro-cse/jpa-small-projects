@@ -1,0 +1,418 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:18:21 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' has been recovered (tr. 5-5)
+
+[2021-03-07 13:18:22 #2 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 6901@android123
+
+[2021-03-07 13:18:22 #3 store] 
+Configuration path: ?
+
+[2021-03-07 13:18:22 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:18:22 #5 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:18:22 #6 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:18:22 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is closed by 6901@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:24:53 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 7361@android123
+
+[2021-03-07 13:24:53 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:24:54 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:24:54 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:24:54 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:24:54 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:24:54 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:24:54 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:24:54 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is closed by 7361@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:25:50 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 7439@android123
+
+[2021-03-07 13:25:50 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:25:50 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:25:50 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:26:33 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 7492@android123
+
+[2021-03-07 13:26:33 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:26:33 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:26:33 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:28:51 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 7633@android123
+
+[2021-03-07 13:28:51 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:28:51 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:28:51 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:29:01 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 7656@android123
+
+[2021-03-07 13:29:01 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:29:01 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:29:01 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:31:50 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 7920@android123
+
+[2021-03-07 13:31:50 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:31:50 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:31:50 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:32:16 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 7988@android123
+
+[2021-03-07 13:32:16 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:32:16 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:32:16 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:35:19 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 8533@android123
+
+[2021-03-07 13:35:19 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:35:19 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:35:19 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:35:43 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 8560@android123
+
+[2021-03-07 13:35:43 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:35:43 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:35:43 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:38:05 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 8663@android123
+
+[2021-03-07 13:38:05 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:38:05 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:38:05 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:38:26 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 8692@android123
+
+[2021-03-07 13:38:26 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:38:26 #3 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:38:26 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:38:26 #5 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:38:26 #6 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:38:26 #7 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is closed by 8692@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:38:39 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is opened by 8716@android123
+
+[2021-03-07 13:38:39 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:38:39 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:38:39 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:38:39 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:38:39 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:38:39 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:38:39 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:38:39 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/mysql_con/localhost/OneToOne_DB' is closed by 8716@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:39:03 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 8743@android123
+
+[2021-03-07 13:39:03 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:39:03 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:39:03 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:39:03 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:39:03 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:39:03 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:39:03 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:39:03 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is closed by 8743@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:39:22 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 8771@android123
+
+[2021-03-07 13:39:22 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:39:22 #3 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:39:22 #4 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:39:40 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is opened by 8794@android123
+
+[2021-03-07 13:39:40 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:39:41 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:39:41 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:39:41 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:39:41 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:39:41 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:39:41 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:39:41 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std' is closed by 8794@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:41:06 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is opened by 8842@android123
+
+[2021-03-07 13:41:06 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:41:06 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:41:06 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:41:06 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:41:06 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:41:06 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:41:06 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:41:06 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is closed by 8842@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:41:25 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is opened by 8870@android123
+
+[2021-03-07 13:41:25 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:41:26 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:41:26 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:41:26 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:41:26 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:41:26 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:41:26 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:41:26 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is closed by 8870@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:42:18 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is opened by 8898@android123
+
+[2021-03-07 13:42:18 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:42:18 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:42:18 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:42:18 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:42:18 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:42:18 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:42:18 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:42:18 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/jdbc:mysql:/localhost:3306/std?zeroDateTimeBehavior=convertToNull' is closed by 8898@android123
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-03-07 13:51:55 #1 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/folder_mysql/localhost/DB' is opened by 9259@android123
+
+[2021-03-07 13:51:55 #2 store] 
+Configuration path: ?
+
+[2021-03-07 13:51:55 #3 type.registry] 
+New type com.javatpoint.mapping.Student
+
+[2021-03-07 13:51:55 #4 type] 
+Type com.javatpoint.mapping.Student is not enhanced.
+
+[2021-03-07 13:51:55 #5 type.registry] 
+New type com.javatpoint.mapping.Library
+
+[2021-03-07 13:51:55 #6 type] 
+Type com.javatpoint.mapping.Library is not enhanced.
+
+[2021-03-07 13:51:55 #7 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2021-03-07 13:51:55 #8 type.registry] 
+New type java.util.ArrayList<com.javatpoint.mapping.Student>
+
+[2021-03-07 13:51:55 #9 store] 
+Database '/home/shoumitro/Documents/html_ex/JPA/JPA_Type_Of_Mapping/folder_mysql/localhost/DB' is closed by 9259@android123
+
